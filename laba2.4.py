@@ -2,7 +2,6 @@ n=int(input("Введите N="))
 a=[]
 r=1
 for i in range(n+2):
-    r=i
     a.append(int(0))
 
 for i in range(n):
